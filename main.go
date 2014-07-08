@@ -1,5 +1,5 @@
+// this is dummy test demo which firstly writes the file and then read the same file.
 package main
-
 import (
 	"fmt"
 	"io/ioutil"
